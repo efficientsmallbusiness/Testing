@@ -5,5 +5,5 @@ function myFunction() {
 }
 
 function myNewFunction() {
-
+  // Does something super cool
 }
